@@ -14,8 +14,6 @@ arabic-tts-telegram-bot/
 
 ├── requirements.txt      # Dependencies
 
-├── .gitignore            # Git ignore rules
-
 ├── run.bat               # Windows run script
 
 ├── run.sh                # Linux/macOS run script
@@ -24,9 +22,7 @@ arabic-tts-telegram-bot/
 
 ├── users.json            # User data (auto-generated)
 
-├── users.xlsx            # Excel log of users (auto-generated)
-
-└── assets/               # Screenshots or demo files
+└── users.xlsx            # Excel log of users (auto-generated)
 
 ---
 
@@ -96,5 +92,6 @@ python bot.py
 ✅ Ability to choose male/female voice
 
 ✅ Web interface for text input and audio download
+
 
 
