@@ -7,15 +7,25 @@ A Telegram bot that converts user-input Arabic text into speech using Coqui TTS.
 
 ### Project structure
 arabic-tts-telegram-bot/
+
 │
+
 ├── bot.py                # Main bot script
+
 ├── requirements.txt      # Dependencies
+
 ├── .gitignore            # Git ignore rules
+
 ├── run.bat               # Windows run script
+
 ├── run.sh                # Linux/macOS run script
+
 ├── s1.wav                # Speaker voice sample
+
 ├── users.json            # User data (auto-generated)
+
 ├── users.xlsx            # Excel log of users (auto-generated)
+
 └── assets/               # Screenshots or demo files
 
 ---
@@ -68,6 +78,10 @@ run.bat
 ```bash
 ./run.sh
 ```
+### ⚠️ Don't forget to make the file executable:
+```bash
+chmod +x run.sh
+```
 ### Or manually:
 ```bash
 python bot.py
@@ -82,4 +96,5 @@ python bot.py
 ✅ Ability to choose male/female voice
 
 ✅ Web interface for text input and audio download
+
 
