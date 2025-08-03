@@ -1,0 +1,4 @@
+python-telegram-bot==20.7
+TTS==0.22.0
+torch
+openpyxl
