@@ -78,6 +78,8 @@ python bot.py
 ### 💡 Ideas for improvement
 
 ✅ Support for additional languages
+
 ✅ Ability to choose male/female voice
 
 ✅ Web interface for text input and audio download
+
