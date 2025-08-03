@@ -3,7 +3,7 @@
 A Telegram bot that converts user-input Arabic text into speech using Coqui TTS. The bot allows users to adjust the playback speed and automatically saves user data to `users.json` and `users.xlsx`.
 
 # 🤝 Authors
-**Sohaib Essam** — GitHub Profile
+**Sohaib Essam** — [GitHub Profile](https://github.com/Sohaib010) 
 
 ### Project structure
 arabic-tts-telegram-bot/
@@ -79,4 +79,5 @@ python bot.py
 
 ✅ Support for additional languages
 ✅ Ability to choose male/female voice
+
 ✅ Web interface for text input and audio download
